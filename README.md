@@ -1,12 +1,12 @@
 # img2sdat
-Convert filesystem ext4 image (.img) into Android sparse data image (.dat)
+Convert filesystem EXT4 image (.img) into Android sparse data image (.dat)
 
 
 
 ## Requirements
-This binary requires Python 2.7 or newer installed on your system.
+This binary requires Python 3.10 or newer installed on your system.
 
-It currently supports Windows x86/x64, Linux x86/x64 & arm/arm64 architectures.
+It currently supports MacOS, GNU/Linux x86/x64 & arm/arm64 architectures.
 
 
 
