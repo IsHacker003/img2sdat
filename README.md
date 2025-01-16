@@ -22,7 +22,7 @@ img2sdat.py <system_img> [-o outdir] [-v version] [-p prefix]
 
 
 ## Example
-This is a simple example on a Linux system:
+This is a simple example on a GNU/Linux system:
 ```
 ~$ ./img2sdat.py system.img -o tmp -v 4
 ```
